@@ -17,3 +17,57 @@
 212.70.126.0/24
 103.225.75.96/27
 103.225.75.128/27
+
+<!--  Added via MC-4093 - IP Range First usable : 37.186.39.0 Last usable 37.186.39.255  -->
+<address pattern = "37\.186\.39\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4093 - IP Range First usable : 37.186.42.0 Last usable 37.186.42.255  -->
+<address pattern = "37\.186\.42\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4093 - IP Range First usable : 37.186.43.0 Last usable 37.186.43.255  -->
+<address pattern = "37\.186\.43\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4093 - IP Range First usable : 37.186.44.0 Last usable 37.186.44.255  -->
+<address pattern = "37\.186\.44\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4093 - IP Range First usable : 37.186.45.0 Last usable 37.186.45.255  -->
+<address pattern = "37\.186\.45\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4093 - IP Range First usable : 37.186.46.0 Last usable 37.186.46.255  -->
+<address pattern = "37\.186\.46\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4093 - IP Range First usable : 37.186.47.0 Last usable 37.186.47.255  -->
+<address pattern = "37\.186\.47\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4093 - IP Range First usable : 37.186.48.0 Last usable 37.186.48.255  -->
+<address pattern = "37\.186\.48\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4093 - IP Range First usable : 212.70.110.0 Last usable 212.70.110.255  -->
+<address pattern = "212\.70\.110\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4093 - IP Range First usable : 212.70.111.0 Last usable 212.70.111.255  -->
+<address pattern = "212\.70\.111\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4093 - IP Range First usable : 212.70.112.0 Last usable 212.70.112.255  -->
+<address pattern = "212\.70\.112\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4093 - IP Range First usable : 212.70.113.0 Last usable 212.70.113.255  -->
+<address pattern = "212\.70\.113\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4093 - IP Range First usable : 212.70.114.0 Last usable 212.70.114.255  -->
+<address pattern = "212\.70\.114\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4093 - IP Range First usable : 212.70.115.0 Last usable 212.70.115.255  -->
+<address pattern = "212\.70\.115\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4093 - IP Range First usable : 212.70.116.0 Last usable 212.70.116.255  -->
+<address pattern = "212\.70\.116\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4093 - IP Range First usable : 212.70.117.0 Last usable 212.70.117.255  -->
+<address pattern = "212\.70\.117\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4093 - IP Range First usable : 212.70.126.0 Last usable 212.70.126.255  -->
+<address pattern = "212\.70\.126\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4093 - IP Range First usable : 103.225.75.96 Last usable 103.225.75.127  -->
+<address pattern = "103\.225\.75\.(9[6-9]|1[0-1]\d|12[0-7])$"/>
