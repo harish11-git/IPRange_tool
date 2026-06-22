@@ -1,0 +1,2 @@
+<!--  Added via MC-MC-4703 Ip range: 46.97.48.0/22  IP Range First usable : 46.97.48.0 Last usable 46.97.51.255  -->
+<address pattern = "46\.97\.(4[8-9]|5[0-1])\.([1-9]?\d|[12]\d\d)$"/>
