@@ -1,1 +1,254 @@
-MC-4847
+<!--  Added via MC-4847 Ip range: 109.36.128.0/21  IP Range First usable : 109.36.128.0 Last usable 109.36.135.255  -->
+<address pattern = "109\.36\.(12[8-9]|13[0-5])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.36.136.0/21  IP Range First usable : 109.36.136.0 Last usable 109.36.143.255  -->
+<address pattern = "109\.36\.(13[6-9]|14[0-3])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.36.144.0/21  IP Range First usable : 109.36.144.0 Last usable 109.36.151.255  -->
+<address pattern = "109\.36\.(14[4-9]|15[0-1])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.36.152.0/21  IP Range First usable : 109.36.152.0 Last usable 109.36.159.255  -->
+<address pattern = "109\.36\.(15[2-9])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.36.164.1/32  IP Range First usable : 109.36.164.1 Last usable 109.36.164.1  -->
+<address pattern = "109\.36\.164\.1$"/>
+
+<!--  Added via MC-4847 Ip range: 109.36.164.2/32  IP Range First usable : 109.36.164.2 Last usable 109.36.164.2  -->
+<address pattern = "109\.36\.164\.2$"/>
+
+<!--  Added via MC-4847 Ip range: 109.36.170.0/23  IP Range First usable : 109.36.170.0 Last usable 109.36.171.255  -->
+<address pattern = "109\.36\.(17[0-1])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.36.172.0/23  IP Range First usable : 109.36.172.0 Last usable 109.36.173.255  -->
+<address pattern = "109\.36\.(17[2-3])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.36.174.0/23  IP Range First usable : 109.36.174.0 Last usable 109.36.175.255  -->
+<address pattern = "109\.36\.(17[4-5])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.36.196.0/23  IP Range First usable : 109.36.196.0 Last usable 109.36.197.255  -->
+<address pattern = "109\.36\.(19[6-7])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.36.198.0/23  IP Range First usable : 109.36.198.0 Last usable 109.36.199.255  -->
+<address pattern = "109\.36\.(19[8-9])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.36.200.0/23  IP Range First usable : 109.36.200.0 Last usable 109.36.201.255  -->
+<address pattern = "109\.36\.(20[0-1])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.36.202.0/23  IP Range First usable : 109.36.202.0 Last usable 109.36.203.255  -->
+<address pattern = "109\.36\.(20[2-3])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.36.204.0/23  IP Range First usable : 109.36.204.0 Last usable 109.36.205.255  -->
+<address pattern = "109\.36\.(20[4-5])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.36.206.0/23  IP Range First usable : 109.36.206.0 Last usable 109.36.207.255  -->
+<address pattern = "109\.36\.(20[6-7])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.36.208.0/23  IP Range First usable : 109.36.208.0 Last usable 109.36.209.255  -->
+<address pattern = "109\.36\.(20[8-9])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.36.210.0/23  IP Range First usable : 109.36.210.0 Last usable 109.36.211.255  -->
+<address pattern = "109\.36\.(21[0-1])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.36.212.0/23  IP Range First usable : 109.36.212.0 Last usable 109.36.213.255  -->
+<address pattern = "109\.36\.(21[2-3])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.36.214.0/23  IP Range First usable : 109.36.214.0 Last usable 109.36.215.255  -->
+<address pattern = "109\.36\.(21[4-5])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.36.216.0/23  IP Range First usable : 109.36.216.0 Last usable 109.36.217.255  -->
+<address pattern = "109\.36\.(21[6-7])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.36.218.0/23  IP Range First usable : 109.36.218.0 Last usable 109.36.219.255  -->
+<address pattern = "109\.36\.(21[8-9])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.36.220.0/23  IP Range First usable : 109.36.220.0 Last usable 109.36.221.255  -->
+<address pattern = "109\.36\.(22[0-1])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.36.222.0/23  IP Range First usable : 109.36.222.0 Last usable 109.36.223.255  -->
+<address pattern = "109\.36\.(22[2-3])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.36.224.0/21  IP Range First usable : 109.36.224.0 Last usable 109.36.231.255  -->
+<address pattern = "109\.36\.(22[4-9]|23[0-1])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.36.232.0/21  IP Range First usable : 109.36.232.0 Last usable 109.36.239.255  -->
+<address pattern = "109\.36\.(23[2-9])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.36.240.0/23  IP Range First usable : 109.36.240.0 Last usable 109.36.241.255  -->
+<address pattern = "109\.36\.(24[0-1])\.([1-9]?\d|[12]\d\d)$"/>
+
+
+<!--  Added via MC-4847 Ip range: 109.37.128.0/21  IP Range First usable : 109.37.128.0 Last usable 109.37.135.255  -->
+<address pattern = "109\.37\.(12[8-9]|13[0-5])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.37.136.0/21  IP Range First usable : 109.37.136.0 Last usable 109.37.143.255  -->
+<address pattern = "109\.37\.(13[6-9]|14[0-3])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.37.144.0/21  IP Range First usable : 109.37.144.0 Last usable 109.37.151.255  -->
+<address pattern = "109\.37\.(14[4-9]|15[0-1])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.37.152.0/21  IP Range First usable : 109.37.152.0 Last usable 109.37.159.255  -->
+<address pattern = "109\.37\.(15[2-9])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.37.164.1/32  IP Range First usable : 109.37.164.1 Last usable 109.37.164.1  -->
+<address pattern = "109\.37\.164\.1$"/>
+
+<!--  Added via MC-4847 Ip range: 109.37.164.2/32  IP Range First usable : 109.37.164.2 Last usable 109.37.164.2  -->
+<address pattern = "109\.37\.164\.2$"/>
+
+<!--  Added via MC-4847 Ip range: 109.37.170.0/23  IP Range First usable : 109.37.170.0 Last usable 109.37.171.255  -->
+<address pattern = "109\.37\.(17[0-1])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.37.172.0/23  IP Range First usable : 109.37.172.0 Last usable 109.37.173.255  -->
+<address pattern = "109\.37\.(17[2-3])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.37.192.0/23  IP Range First usable : 109.37.192.0 Last usable 109.37.193.255  -->
+<address pattern = "109\.37\.(19[2-3])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.37.194.0/23  IP Range First usable : 109.37.194.0 Last usable 109.37.195.255  -->
+<address pattern = "109\.37\.(19[4-5])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.37.196.0/23  IP Range First usable : 109.37.196.0 Last usable 109.37.197.255  -->
+<address pattern = "109\.37\.(19[6-7])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.37.198.0/23  IP Range First usable : 109.37.198.0 Last usable 109.37.199.255  -->
+<address pattern = "109\.37\.(19[8-9])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.37.200.0/23  IP Range First usable : 109.37.200.0 Last usable 109.37.201.255  -->
+<address pattern = "109\.37\.(20[0-1])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.37.202.0/23  IP Range First usable : 109.37.202.0 Last usable 109.37.203.255  -->
+<address pattern = "109\.37\.(20[2-3])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.37.204.0/23  IP Range First usable : 109.37.204.0 Last usable 109.37.205.255  -->
+<address pattern = "109\.37\.(20[4-5])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.37.206.0/23  IP Range First usable : 109.37.206.0 Last usable 109.37.207.255  -->
+<address pattern = "109\.37\.(20[6-7])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.37.208.0/23  IP Range First usable : 109.37.208.0 Last usable 109.37.209.255  -->
+<address pattern = "109\.37\.(20[8-9])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.37.210.0/23  IP Range First usable : 109.37.210.0 Last usable 109.37.211.255  -->
+<address pattern = "109\.37\.(21[0-1])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.37.212.0/23  IP Range First usable : 109.37.212.0 Last usable 109.37.213.255  -->
+<address pattern = "109\.37\.(21[2-3])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.37.214.0/23  IP Range First usable : 109.37.214.0 Last usable 109.37.215.255  -->
+<address pattern = "109\.37\.(21[4-5])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.37.216.0/23  IP Range First usable : 109.37.216.0 Last usable 109.37.217.255  -->
+<address pattern = "109\.37\.(21[6-7])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.37.218.0/23  IP Range First usable : 109.37.218.0 Last usable 109.37.219.255  -->
+<address pattern = "109\.37\.(21[8-9])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.37.220.0/23  IP Range First usable : 109.37.220.0 Last usable 109.37.221.255  -->
+<address pattern = "109\.37\.(22[0-1])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.37.222.0/23  IP Range First usable : 109.37.222.0 Last usable 109.37.223.255  -->
+<address pattern = "109\.37\.(22[2-3])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.37.224.0/21  IP Range First usable : 109.37.224.0 Last usable 109.37.231.255  -->
+<address pattern = "109\.37\.(22[4-9]|23[0-1])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.37.232.0/21  IP Range First usable : 109.37.232.0 Last usable 109.37.239.255  -->
+<address pattern = "109\.37\.(23[2-9])\.([1-9]?\d|[12]\d\d)$"/>
+
+
+<!--  Added via MC-4847 Ip range: 109.38.128.0/21  IP Range First usable : 109.38.128.0 Last usable 109.38.135.255  -->
+<address pattern = "109\.38\.(12[8-9]|13[0-5])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.38.136.0/21  IP Range First usable : 109.38.136.0 Last usable 109.38.143.255  -->
+<address pattern = "109\.38\.(13[6-9]|14[0-3])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.38.144.0/21  IP Range First usable : 109.38.144.0 Last usable 109.38.151.255  -->
+<address pattern = "109\.38\.(14[4-9]|15[0-1])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.38.152.0/21  IP Range First usable : 109.38.152.0 Last usable 109.38.159.255  -->
+<address pattern = "109\.38\.(15[2-9])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.38.164.1/32  IP Range First usable : 109.38.164.1 Last usable 109.38.164.1  -->
+<address pattern = "109\.38\.164\.1$"/>
+
+<!--  Added via MC-4847 Ip range: 109.38.164.2/32  IP Range First usable : 109.38.164.2 Last usable 109.38.164.2  -->
+<address pattern = "109\.38\.164\.2$"/>
+
+<!--  Added via MC-4847 Ip range: 109.38.166.0/23  IP Range First usable : 109.38.166.0 Last usable 109.38.167.255  -->
+<address pattern = "109\.38\.(16[6-7])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.38.170.0/23  IP Range First usable : 109.38.170.0 Last usable 109.38.171.255  -->
+<address pattern = "109\.38\.(17[0-1])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.38.172.0/23  IP Range First usable : 109.38.172.0 Last usable 109.38.173.255  -->
+<address pattern = "109\.38\.(17[2-3])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.38.194.0/23  IP Range First usable : 109.38.194.0 Last usable 109.38.195.255  -->
+<address pattern = "109\.38\.(19[4-5])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.38.198.0/23  IP Range First usable : 109.38.198.0 Last usable 109.38.199.255  -->
+<address pattern = "109\.38\.(19[8-9])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.38.200.0/23  IP Range First usable : 109.38.200.0 Last usable 109.38.201.255  -->
+<address pattern = "109\.38\.(20[0-1])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.38.202.0/23  IP Range First usable : 109.38.202.0 Last usable 109.38.203.255  -->
+<address pattern = "109\.38\.(20[2-3])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.38.204.0/23  IP Range First usable : 109.38.204.0 Last usable 109.38.205.255  -->
+<address pattern = "109\.38\.(20[4-5])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.38.206.0/23  IP Range First usable : 109.38.206.0 Last usable 109.38.207.255  -->
+<address pattern = "109\.38\.(20[6-7])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.38.208.0/23  IP Range First usable : 109.38.208.0 Last usable 109.38.209.255  -->
+<address pattern = "109\.38\.(20[8-9])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.38.210.0/23  IP Range First usable : 109.38.210.0 Last usable 109.38.211.255  -->
+<address pattern = "109\.38\.(21[0-1])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.38.212.0/23  IP Range First usable : 109.38.212.0 Last usable 109.38.213.255  -->
+<address pattern = "109\.38\.(21[2-3])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.38.214.0/23  IP Range First usable : 109.38.214.0 Last usable 109.38.215.255  -->
+<address pattern = "109\.38\.(21[4-5])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.38.216.0/23  IP Range First usable : 109.38.216.0 Last usable 109.38.217.255  -->
+<address pattern = "109\.38\.(21[6-7])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.38.218.0/23  IP Range First usable : 109.38.218.0 Last usable 109.38.219.255  -->
+<address pattern = "109\.38\.(21[8-9])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.38.220.0/23  IP Range First usable : 109.38.220.0 Last usable 109.38.221.255  -->
+<address pattern = "109\.38\.(22[0-1])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.38.222.0/23  IP Range First usable : 109.38.222.0 Last usable 109.38.223.255  -->
+<address pattern = "109\.38\.(22[2-3])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.38.224.0/21  IP Range First usable : 109.38.224.0 Last usable 109.38.231.255  -->
+<address pattern = "109\.38\.(22[4-9]|23[0-1])\.([1-9]?\d|[12]\d\d)$"/>
+
+<!--  Added via MC-4847 Ip range: 109.38.232.0/21  IP Range First usable : 109.38.232.0 Last usable 109.38.239.255  -->
+<address pattern = "109\.38\.(23[2-9])\.([1-9]?\d|[12]\d\d)$"/>
+
+
+<!--  Added via MC-4847 Ip range: 3.120.99.145/32  IP Range First usable : 3.120.99.145 Last usable 3.120.99.145  -->
+<address pattern = "3\.120\.99\.145$"/>
+
+<!--  Added via MC-4847 Ip range: 54.93.127.128/32  IP Range First usable : 54.93.127.128 Last usable 54.93.127.128  -->
+<address pattern = "54\.93\.127\.128$"/>
+
+<!--  Added via MC-4847 Ip range: 18.159.9.99/32  IP Range First usable : 18.159.9.99 Last usable 18.159.9.99  -->
+<address pattern = "18\.159\.9\.99$"/>
+
+<!--  Added via MC-4847 Ip range: 3.74.210.37/32  IP Range First usable : 3.74.210.37 Last usable 3.74.210.37  -->
+<address pattern = "3\.74\.210\.37$"/>
+
+<!--  Added via MC-4847 Ip range: 3.65.189.45/32  IP Range First usable : 3.65.189.45 Last usable 3.65.189.45  -->
+<address pattern = "3\.65\.189\.45$"/>
+
+<!--  Added via MC-4847 Ip range: 3.77.172.108/32  IP Range First usable : 3.77.172.108 Last usable 3.77.172.108  -->
+<address pattern = "3\.77\.172\.108$"/>
+
+<!--  Added via MC-4847 Ip range: 63.177.222.7/32  IP Range First usable : 63.177.222.7 Last usable 63.177.222.7  -->
+<address pattern = "63\.177\.222\.7$"/>
