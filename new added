@@ -3,3 +3,26 @@ Preprod EKS cluster IPs: 3.120.99.145 54.93.127.128 18.159.9.99
 Prod EKS cluster IPs: 3.74.210.37 3.65.189.45 3.77.172.108
 
 Instana: 63.177.222.7
+
+----------------------------------------------------------------------------
+
+<!--  Added via MC-4847 Ip range: 3.120.99.145/32  IP Range First usable : 3.120.99.145 Last usable 3.120.99.145  -->
+<address pattern = "3\.120\.99\.145$"/>
+
+<!--  Added via MC-4847 Ip range: 54.93.127.128/32  IP Range First usable : 54.93.127.128 Last usable 54.93.127.128  -->
+<address pattern = "54\.93\.127\.128$"/>
+
+<!--  Added via MC-4847 Ip range: 18.159.9.99/32  IP Range First usable : 18.159.9.99 Last usable 18.159.9.99  -->
+<address pattern = "18\.159\.9\.99$"/>
+
+<!--  Added via MC-4847 Ip range: 3.74.210.37/32  IP Range First usable : 3.74.210.37 Last usable 3.74.210.37  -->
+<address pattern = "3\.74\.210\.37$"/>
+
+<!--  Added via MC-4847 Ip range: 3.65.189.45/32  IP Range First usable : 3.65.189.45 Last usable 3.65.189.45  -->
+<address pattern = "3\.65\.189\.45$"/>
+
+<!--  Added via MC-4847 Ip range: 3.77.172.108/32  IP Range First usable : 3.77.172.108 Last usable 3.77.172.108  -->
+<address pattern = "3\.77\.172\.108$"/>
+
+<!--  Added via MC-4847 Ip range: 63.177.222.7/32  IP Range First usable : 63.177.222.7 Last usable 63.177.222.7  -->
+<address pattern = "63\.177\.222\.7$"/>
